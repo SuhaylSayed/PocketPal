@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52C9FCCB-6D35-470D-91DD-6476E3E8AF28}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>frmSplashScreen_PocketPal.My.MyApplication</StartupObject>
+    <RootNamespace>frmSplashScreen_PocketPal</RootNamespace>
+    <AssemblyName>frmSplashScreen_PocketPal</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>frmSplashScreen_PocketPal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>frmSplashScreen_PocketPal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NCalc, Version=1.3.8.0, Culture=neutral, PublicKeyToken=973cde3f1cafed03, processorArchitecture=MSIL">
+      <HintPath>..\packages\ncalc.1.3.8\lib\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calc1.designer.vb">
+      <DependentUpon>Calc1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calc1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calc2.designer.vb">
+      <DependentUpon>Calc2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calc2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalendar.designer.vb">
+      <DependentUpon>frmCalendar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalendar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGame.designer.vb">
+      <DependentUpon>frmGame.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPocketPal_Finance.designer.vb">
+      <DependentUpon>frmPocketPal_Finance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPocketPal_Finance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashscreen.Designer.vb">
+      <DependentUpon>frmSplashscreen.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalories1.designer.vb">
+      <DependentUpon>frmCalories1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalories1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalories2.designer.vb">
+      <DependentUpon>frmCalories2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalories2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalories3.designer.vb">
+      <DependentUpon>frmCalories3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalories3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClock.designer.vb">
+      <DependentUpon>frmClock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmClock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotes.designer.vb">
+      <DependentUpon>frmNotes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPocketPal_Contacts.designer.vb">
+      <DependentUpon>frmPocketPal_Contacts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPocketPal_Contacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTasks.designer.vb">
+      <DependentUpon>frmTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PocketPal_HomeScreen.designer.vb">
+      <DependentUpon>PocketPal_HomeScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PocketPal_HomeScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Calc1.resx">
+      <DependentUpon>Calc1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calc2.resx">
+      <DependentUpon>Calc2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalendar.resx">
+      <DependentUpon>frmCalendar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGame.resx">
+      <DependentUpon>frmGame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPocketPal_Finance.resx">
+      <DependentUpon>frmPocketPal_Finance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashscreen.resx">
+      <DependentUpon>frmSplashscreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalories1.resx">
+      <DependentUpon>frmCalories1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalories2.resx">
+      <DependentUpon>frmCalories2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalories3.resx">
+      <DependentUpon>frmCalories3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClock.resx">
+      <DependentUpon>frmClock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotes.resx">
+      <DependentUpon>frmNotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPocketPal_Contacts.resx">
+      <DependentUpon>frmPocketPal_Contacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTasks.resx">
+      <DependentUpon>frmTasks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocketPal_HomeScreen.resx">
+      <DependentUpon>PocketPal_HomeScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PocketPalIconLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PocketPalIconLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PocketPalIconLogo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ring-alt_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09b24e31234507.564a1d23c07b4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-shelf-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calender.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseV2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contacts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Finance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Health.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HomeButton.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IphoneScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeV2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RCircle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RCircleV2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedCircleV3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\screener_1541789842235.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\screener_1541790080636_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpaceAttack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TransYello.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YCircle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YCircleV3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PhoneScreenshto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PhoneScreenshto2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BMI-in-Adults-722x4061.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalmColor11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalmColor21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalmColor31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalmCOlor41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foodzzzz1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealthyFood1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

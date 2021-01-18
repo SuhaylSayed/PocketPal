@@ -1,0 +1,241 @@
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojResolveAssemblyReference.cache
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Form1.resources
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.Cache
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\Mayur\source\repos\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Form1.resources
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Mayur USB\FINAL PROJECT\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\frmSplashScreen_PocketPal\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+C:\Users\325281434\Desktop\Final Project - Combined\frmSplashScreen_PocketPal (3)\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Finance.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\325281434\Desktop\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Finance.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+E:\School\Computer Science\Final Project\Combined Forms\Pocketpal_Final\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Finance.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+E:\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalendar.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalendar.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Finance.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+D:\Documents\School\Computer Science\Final Project\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalendar.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Finance.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.cache
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\pedra\Desktop\Final PocketPal-20181219T234302Z-001\Final PocketPal\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CopyComplete
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe.config
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\bin\Debug\NCalc.dll
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojResolveAssemblyReference.cache
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCal1.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalc2.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalendar.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmGame.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Finance.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmSplashscreen.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories1.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories2.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmCalories3.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmClock.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmNotes.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_Contacts.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmTasks.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.Resources.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.frmPocketPal_HomeScreen.resources
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.GenerateResource.Cache
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbproj.CoreCompileInputs.cache
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\Mayur\Desktop\MOST UPDATED FINAL - SUHAYL\Combined Forms\Combined Forms\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb
+C:\Users\pedra\Desktop\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.vbprojAssemblyReference.cache
+C:\Users\pedra\Desktop\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.exe
+C:\Users\pedra\Desktop\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.xml
+C:\Users\pedra\Desktop\PocketPal V1\frmSplashScreen_PocketPal\obj\Debug\frmSplashScreen_PocketPal.pdb

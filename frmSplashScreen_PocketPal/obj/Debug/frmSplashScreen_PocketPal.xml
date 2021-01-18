@@ -1,0 +1,281 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+frmSplashScreen_PocketPal
+</name>
+</assembly>
+<members>
+<member name="T:frmSplashScreen_PocketPal.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources._09b24e31234507_564a1d23c07b4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources._09b24e312345071">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.BMI_in_Adults_722x406">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.book_shelf_loader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.book_shelf_loader1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Calculator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Calender">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.CalmColor1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.CalmColor2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.CalmColor3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.CalmCOlor4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Clock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.CloseRed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.CloseV2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Contacts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Finance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.foodzzzz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.giphy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.giphy__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.giphy__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.giphy1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Health">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.HealthyFood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.HomeButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.IphoneScreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.maxresdefault">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.maxresdefault1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.MinimizeV2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Notes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PhoneScreenshto">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PhoneScreenshto2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PocketPalIconLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PocketPalIconLogo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PocketPalIconLogo11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PocketPalIconLogo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PocketPalIconLogo21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.PocketPalIconLogo3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.RCircle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.RCircleV2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.RedCircleV3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.ring_alt_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.ring_alt_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.screener_1541789842235">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.screener_1541790080636_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.SpaceAttack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.Tasks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.TransYello">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.YCircle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:frmSplashScreen_PocketPal.My.Resources.Resources.YCircleV3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

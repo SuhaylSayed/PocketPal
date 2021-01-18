@@ -1,0 +1,30 @@
+Milk,103,1 cup
+Apple,52,1 
+Banana,89,1 
+Orange,47,1 
+Almonds,529,1 cup
+Apricots,101,6 
+Blackberries,100,100 
+Blueberries,103,125
+Cantaloupe,106,2 cups
+Cherries,103,20 
+Clementines,104,3
+Cranberries,98,2
+Dates,100,1.5
+Grapes,101,30
+Grapefruit,95,1.25
+Honeydew,98,1.75
+Kiwi,93,2
+Mango,101,1
+Nectarine,94,1.5
+Papaya,109,2
+Peach,96,2.5
+Pear,96, 1
+Plum,91,3
+Pluot,100,1.5
+Pineapple,103,1.5 cups
+Pomegranate,117,1.5
+Raspberries,99,100
+Strawberries,96,25
+Tangerine,100,2
+Watermelon,110,2 cups
